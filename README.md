@@ -27,11 +27,11 @@ Javascript file.</p>
     <h3>Step 2: Create HTML markup</h3>
     <p>Create a <code>&lt;div class="marco" &lt;ul &gt;</code> element, with a <code>&lt;li&gt;</code> for each slide. Slides can contain images, video</p>
     <pre><code data-language="html">&lt;div class=&quot;marco&quot;&gt;
- &lt;ul;&gt;
+ &lt;ul&gt;
   &lt;li&gt;&lt;img src=&quot;&#x2F;images&#x2F;pic1.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
   &lt;li&gt;&lt;img src=&quot;&#x2F;images&#x2F;pic2.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
   &lt;li&gt;&lt;img src=&quot;&#x2F;images&#x2F;pic3.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
   &lt;li&gt;&lt;img src=&quot;&#x2F;images&#x2F;pic4.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;</code></pre>
+  &#x2F;ul&gt;</code></pre>
    &lt;&#x2F;div&gt;
   </div>
