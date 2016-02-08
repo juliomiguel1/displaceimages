@@ -22,3 +22,9 @@ Javascript file.</p>
 &lt;!-- displaceimage CSS file --&gt;
 &lt;link href=&quot;&#x2F;lib&#x2F;displaceimage.css&quot; rel=&quot;stylesheet&quot; &#x2F;&gt;</code></pre>
   </div>
+
+<style>
+ .step{
+    border: 1px solid black;
+ }
+</style>
