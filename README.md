@@ -2,11 +2,11 @@
 
 <h3>Why should I use this plugin?</h3>
 <ul>
-Slides can contain images, video.
-Uses CSS transitions for slide animation.
-Small file size, fully themed, simple to implement.
-Browser support: Firefox, Chrome.
-Unlimited Images.
+<li>Slides can contain images, video.</li>
+<li>Uses CSS transitions for slide animation.</li>
+<li>Small file size, fully themed, simple to implement.</li>
+<li>Browser support: Firefox, Chrome.</li>
+<li>Unlimited Images.</li>
 </ul>
 <h3>How to install</h3>
 
