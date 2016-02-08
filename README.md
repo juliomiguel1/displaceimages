@@ -1,13 +1,13 @@
 <h1>displaceimage.js</h1>
 
 <h3>Why should I use this plugin?</h3>
-
+<ul>
 Slides can contain images, video.
 Uses CSS transitions for slide animation.
 Small file size, fully themed, simple to implement.
 Browser support: Firefox, Chrome.
 Unlimited Images.
-
+</ul>
 <h3>How to install</h3>
 
 First and most important, the jQuery library needs to be included (no need to download - link directly from Google). 
