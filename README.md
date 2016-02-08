@@ -16,9 +16,9 @@
 Next, download the package from this site and link the "displaceimage" CSS file (for the theme) and the "displaceimage" 
 Javascript file.</p>
     <pre><code data-language="html">&lt;!-- jQuery library (served from Google) --&gt;
-&lt;script src=&quot;&#x2F;&#x2F;ajax.googleapis.com&#x2F;ajax&#x2F;libs&#x2F;jquery&#x2F;1.8.2&#x2F;jquery.min.js&quot;&gt;&lt;&#x2F;script&gt;
-&lt;!-- bxSlider Javascript file --&gt;
+&lt;script src=&quot;&#x2F;&#x2F;ajax.googleapis.com&#x2F;ajax&#x2F;libs&#x2F;jquery&#x2F;1.6.2&#x2F;jquery.min.js&quot;&gt;&lt;&#x2F;script&gt;
+&lt;!-- displaceimage Javascript file --&gt;
 &lt;script src=&quot;&#x2F;js&#x2F;displaceimage.js&quot;&gt;&lt;&#x2F;script&gt;
-&lt;!-- bxSlider CSS file --&gt;
+&lt;!-- displaceimage CSS file --&gt;
 &lt;link href=&quot;&#x2F;lib&#x2F;displaceimage.css&quot; rel=&quot;stylesheet&quot; &#x2F;&gt;</code></pre>
   </div>
