@@ -29,12 +29,12 @@ Javascript file.</p>
     <pre><code data-language="html">
   &lt;div class=&quot;marco&quot;&gt;
     &lt;ul&gt;
-    &lt;li&gt;&lt;img src=&quot;&#x2F;imG&#x2F;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
-    &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;2.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
-    &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;3.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
-    &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;4.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
-    &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;5.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
-    &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;6.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+        &lt;li&gt;&lt;img src=&quot;&#x2F;imG&#x2F;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+        &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;2.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+        &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;3.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+        &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;4.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+        &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;5.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
+        &lt;li&gt;&lt;img src=&quot;&#x2F;img&#x2F;6.jpg&quot; &#x2F;&gt;&lt;&#x2F;li&gt;
     &lt;&#x2F;ul&gt;
   &lt;&#x2F;div&gt;
    </code></pre>
