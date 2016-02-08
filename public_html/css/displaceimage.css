@@ -1,0 +1,24 @@
+	ul li{
+		list-style: none;
+	}
+
+	li{
+		width:16%;
+		float: left;
+
+		position:absolute;
+	}
+    
+	.marco ul li img{
+		width: 90px;
+		height: 90px;
+		position: relative;
+		border: 7px solid black;
+		background-color: white;
+		opacity: 0;		
+	}
+
+	.marco{
+		margin: 0 auto;
+		overflow: hidden;
+	}
