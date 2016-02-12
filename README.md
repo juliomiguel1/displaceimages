@@ -39,3 +39,11 @@ Javascript file.</p>
   &lt;&#x2F;div&gt;
    </code></pre>
   </div>
+
+ <div class="step">
+    <h3>Step 3: Call the displaceimage</h3>
+    <p>Call .displaceimage() on <code>&lt;ul class=".marco"&gt;</code>. Note that the call must be made inside of a                $(document).ready() call, or the plugin will not work!</p>
+    <pre><code data-language="javascript">$(document).ready(function(){
+  $(&#x27;.marco&#x27;).displaceimage();
+});</code></pre>
+  </div>
