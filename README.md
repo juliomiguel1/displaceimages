@@ -20,7 +20,7 @@ Javascript file.</p>
 &lt;!-- displaceimage Javascript file --&gt;
 &lt;script src=&quot;&#x2F;js&#x2F;displaceimage.js&quot;&gt;&lt;&#x2F;script&gt;
 &lt;!-- displaceimage CSS file --&gt;
-&lt;link href=&quot;&#x2F;lib&#x2F;displaceimage.css&quot; rel=&quot;stylesheet&quot; &#x2F;&gt;</code></pre>
+&lt;link href=&quot;&#x2F;css&#x2F;displaceimage.css&quot; rel=&quot;stylesheet&quot; &#x2F;&gt;</code></pre>
   </div>
 
  <div class="step">
