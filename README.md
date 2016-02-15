@@ -18,9 +18,9 @@ Javascript file.</p>
     <pre><code data-language="html">&lt;!-- jQuery library (served from Google) --&gt;
 &lt;script src=&quot;&#x2F;&#x2F;ajax.googleapis.com&#x2F;ajax&#x2F;libs&#x2F;jquery&#x2F;1.6.2&#x2F;jquery.min.js&quot;&gt;&lt;&#x2F;script&gt;
 &lt;!-- displaceimage Javascript file --&gt;
-&lt;script src=&quot;&#x2F;js&#x2F;displaceimage.js&quot;&gt;&lt;&#x2F;script&gt;
+&lt;script src=&quot; js&#x2F;displaceimage.js&quot;&gt;&lt;&#x2F;script&gt;
 &lt;!-- displaceimage CSS file --&gt;
-&lt;link href=&quot;&#x2F;css&#x2F;displaceimage.css&quot; rel=&quot;stylesheet&quot; &#x2F;&gt;</code></pre>
+&lt;link href=&quot; css&#x2F;displaceimage.css&quot; rel=&quot;stylesheet&quot; &#x2F;&gt;</code></pre>
   </div>
 
  <div class="step">
